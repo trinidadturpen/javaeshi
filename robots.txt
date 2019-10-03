@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uodifieji.thinkingassets.com/sitemap.xml
